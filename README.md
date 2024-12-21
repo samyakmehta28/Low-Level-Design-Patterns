@@ -276,6 +276,8 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ## Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- I would like to express my sincere gratitude to Shreyansh Jain for his invaluable contributions through his YouTube playlist on Low-Level System Design. This collection of C++ implementations of various design patterns was primarily inspired by the examples presented in his videos. While I have closely followed the examples provided in his content, I have adapted and implemented them in C++.
+
+- You can find Shreyansh Jain's YouTube playlist here: [Low-Level System Design Playlist](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW).
 
 ---
